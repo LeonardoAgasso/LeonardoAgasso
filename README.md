@@ -6,7 +6,12 @@
   </a>
 </div>
 
+<br>
 
+### About me:
+🏫 University of Turin                     <br>
+👨‍🏫  B.Sc. Physics                          <br>
+👨‍🎓  M.Sc. Physics of Complex Systems       <br>
 
 ### Main interests: 
   💻 Bioinformatics \
