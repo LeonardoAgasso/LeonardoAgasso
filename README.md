@@ -1,4 +1,4 @@
-io<div id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/leonardo-agasso-22ba561bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://twitter.com/AgassoLeonardo">
