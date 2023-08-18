@@ -16,7 +16,9 @@
 ### Main interests: 
   💻 Bioinformatics \
   🧮 Computational biology \
-  🧬 Genomics 
+  🦠 Systems biology \
+  🧬 Genomics \
+
 
 <!--
 **LeonardoAgasso/LeonardoAgasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
