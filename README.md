@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<br>
+
 
 ### About me:
 🏫 University of Turin                     <br>
