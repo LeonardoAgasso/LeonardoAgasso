@@ -17,7 +17,7 @@
   💻 Bioinformatics \
   🧮 Computational biology \
   🦠 Systems biology \
-  🧬 Genomics \
+  🧬 Genomics
 
 
 <!--
