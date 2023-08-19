@@ -16,8 +16,7 @@
 ### Main interests: 
   💻 Bioinformatics \
   🧮 Computational biology \
-  🦠 Systems biology \
-  🧬 Genomics
+  🦠 Systems biology
 
 
 <!--
