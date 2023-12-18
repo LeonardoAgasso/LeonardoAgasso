@@ -10,12 +10,6 @@
 👨‍🏫  B.Sc. Physics                          <br>
 👨‍🎓  M.Sc. Physics of Complex Systems       <br>
 
-### Main interests: 
-  💻 Bioinformatics \
-  🧮 Computational biology \
-  🦠 Systems biology
-
-
 <!--
 **LeonardoAgasso/LeonardoAgasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
