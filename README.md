@@ -6,9 +6,9 @@
 
 
 ### About me:
-🏫 University of Turin                   <br>
-B.Sc. Physics                            <br>
-M.Sc. Physics of Complex Systems         <br>
+University of Turin                        <br>
+B.Sc. Physics                              <br>
+M.Sc. Physics of Complex Systems           <br>
 
 <!--
 **LeonardoAgasso/LeonardoAgasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
