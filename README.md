@@ -6,7 +6,7 @@
 
 
 ### About me:
-University of Turin                        <br>
+Ph.D. student in Complex Systems for Quantitative Biomedicine, University of Turin                        <br>
 B.Sc. Physics                              <br>
 M.Sc. Physics of Complex Systems           <br>
 
