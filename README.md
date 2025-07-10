@@ -10,6 +10,12 @@ Ph.D. student in Complex Systems for Quantitative Biomedicine, University of Tur
 B.Sc. Physics                              <br>
 M.Sc. Physics of Complex Systems           <br>
 
+### Main Interests:
+  - Micro-RNAs
+  - Cell differentiation
+  - Single-cell transcriptomics
+  - Statistical models
+
 <!--
 **LeonardoAgasso/LeonardoAgasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
