@@ -6,9 +6,10 @@
 
 
 ### About me:
-Ph.D. student in Complex Systems for Quantitative Biomedicine, University of Turin                        <br>
-B.Sc. Physics                              <br>
-M.Sc. Physics of Complex Systems           <br>
+Visiting Ph.D, Scialdone Lab, IES - Helmholtz Munich                                       <br>
+Ph.D. student in Complex Systems for Quantitative Biomedicine, University of Turin         <br>
+M.Sc. Physics of Complex Systems                                                           <br>
+B.Sc. Physics                                                                              <br>
 
 ### Main Interests:
   - Micro-RNAs
