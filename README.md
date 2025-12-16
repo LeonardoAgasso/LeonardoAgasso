@@ -7,7 +7,7 @@
 
 ### About me:
 Visiting Ph.D, Scialdone Lab, IES - Helmholtz Munich                                       <br>
-Ph.D. student in Complex Systems for Quantitative Biomedicine, University of Turin         <br>
+Ph.D. student in Complex Systems for Quantitative Biomedicine, Biophys - Computational Biology group, INFN & University of Turin         <br>
 M.Sc. Physics of Complex Systems                                                           <br>
 B.Sc. Physics                                                                              <br>
 
